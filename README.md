@@ -1,6 +1,8 @@
 # VEBS-Vehicle-fitness-Ensuring-BIOS-Setup
 Made by: Yashika Behl
+
 *This is an ongoing project
+
 VEBS is a ML/AI based system based on the concept of computer bootstraping, aiming to reduce the fatality rate due to road accidents.
 
 IMPACT ANALYSIS OF THE PROBLEM:
